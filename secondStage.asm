@@ -66,7 +66,7 @@ Longland:
 
 	call _start
 	
-	mov edi, 0xb8000 ; Maybe a feature like "It is now safe to turn off your computer." one of those one features in windows.
+	mov edi, 0xb8000 ; Maybe a feature like "It is now safe to turn off your computer." like one of those features in windows.
 	mov rax, 0x4400440044004400 
 	mov ecx, 500
 	rep stosq
