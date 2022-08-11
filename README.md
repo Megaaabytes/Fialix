@@ -6,5 +6,8 @@ The build script will mostly fail on linux computers which do not have the $GCC 
 
 Also, the built boot.iso file won't boot in vmware, it boots in QEMU just fine. Make sure you use the x86_64-system-qemu however. The kernel will complain if its i386.
 
+TODO:
+- Implement filesystem
+
 # References
 https://osdev.org
