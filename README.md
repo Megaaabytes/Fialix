@@ -8,6 +8,7 @@ Also, the built boot.iso file won't boot in vmware, it boots in QEMU just fine. 
 
 TODO:
 - Implement filesystem
+- Fix build system
 
 # References
 https://osdev.org
